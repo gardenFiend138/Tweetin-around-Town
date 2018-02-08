@@ -11,19 +11,19 @@ This project will consist of two main data visualizations: a heatmap of Tweets l
 ## Technologies Used 
 This project will use Rails on the backend, utilize web sockets to connect to the Twitter API, Google Maps API for the map of San Jose and the heatmap, and D3.js for the secondary data visualization of trending Tweets. The backend will be written in Ruby, and the frontend will be written in JavaScript, with the help of the D3 library. 
 
-[Rails]()
-[Web Sockets]()
-[Twitter API]()
-[Google Maps API]()
-[D3.js]()
-[Ruby]()
-[JavaScript]()
+[Rails](http://guides.rubyonrails.org/)
+[Web Sockets in Ruby](https://ruby-doc.org/stdlib-1.9.3/libdoc/socket/rdoc/Socket.html)
+[Twitter API](https://developer.twitter.com/en/docs)
+[Google Maps API](https://developers.google.com/maps/)
+[D3.js](https://github.com/d3/d3/wiki)
+[Ruby](http://ruby-doc.org/)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Highlights 
 This will be updated as the project goes on.
 
 ## Action Items 
-[] Add links to technologies used 
+[x] Add links to technologies used 
 [] Research Twitter and Google Maps APIs
 [] Design Wireframes
 [] Get backend started
