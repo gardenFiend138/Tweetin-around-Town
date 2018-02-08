@@ -10,7 +10,7 @@ This project will consist of two main data visualizations: a heatmap of Tweets l
 
 ### Wireframe 
 
-[Wireframe for Twitter San Jose](https://github.com/gardenFiend138/Tweetin-around-Town/blob/master/twitter_sj.png)
+![Wireframe for Twitter San Jose](https://github.com/gardenFiend138/Tweetin-around-Town/blob/master/twitter_sj.png)
 
 ## Technologies Used 
 This project will use Rails on the backend, utilize web sockets to connect to the Twitter API, Google Maps API for the map of San Jose and the heatmap, and D3.js for the secondary data visualization of trending Tweets. The backend will be written in Ruby, and the frontend will be written in JavaScript, with the help of the D3 library. 
