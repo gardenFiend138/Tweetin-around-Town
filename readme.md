@@ -23,7 +23,7 @@ This project will use Rails on the backend, utilize web sockets to connect to th
 This will be updated as the project goes on.
 
 ## Action Items 
-[x] Add links to technologies used 
-[] Research Twitter and Google Maps APIs
-[] Design Wireframes
-[] Get backend started
+- [x] Add links to technologies used 
+- [ ] Research Twitter and Google Maps APIs
+- [ ] Design Wireframes
+- [ ] Get backend started
