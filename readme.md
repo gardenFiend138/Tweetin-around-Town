@@ -3,7 +3,8 @@
 ## Motivations
 ### [__Code for San Jose__](http://www.codeforsanjose.com/)
 
-> 'Code for San José is a volunteer organization made up of makers,    > designers, developers, activists, and subject matter experts who come 
+> 'Code for San José is a volunteer organization made up of makers,
+> designers, developers, activists, and subject matter experts who come 
 > together to use tech to solve civic problems.'
 
 This project was conceptualized by the founder, Michelle Thong, with the ['SonicRunway'](https://www.mercurynews.com/2017/11/04/sonic-runway-brightens-san-jose-city-hall-plaza/) at City Hall in mind. We thought it would be interesting to see what residents and visitors were tweeting about while visiting this public art installation. 
